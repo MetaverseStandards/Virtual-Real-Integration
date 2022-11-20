@@ -1,6 +1,22 @@
 # Virtual-Real-Integration
 
-This repository is for exploration of use cases for Real/Virtual World integration. 
-The first use case, "Assisted Car-Human Urban Rendezvous" will appear in first draft form approximately 24 November. Please raise issues reflecting your needs, opinions, ideas. 
+This repository is for exploration of use cases (UCs) for Real/Virtual World integration. 
 
-A full first draft ontology of "Assisted Car-Human Urban Rendezvous" including a mapping of James Jackson's building blocks should be in place not later than our Dec 1 online meeting and hopefully before. My plan is to get a coherent first draft in place and then to develop it collaboratively between meetings so that we can focus on things that need discussion or decisions in the online meetings. I will work as fast as I can to get this first draft in place, following the general ideas of the shared ride arriving for a passenger pickup that we have talked about off and on in the meetings.
+The first use case (UC1), "Assisted Car-Human Urban Rendezvous" is based on the general ideas of the "shared ride arriving for a passenger pickup scenario" that we have talked about off and on in the meetings. 
+
+## Initial Plan
+
+
+
+1. Seed the process with a starting version of UC1. To do this, I am reverse engineering parts of our first 6 meetings to create a complete and internally consistent version of UC1, James Jackson's Building Blocks (BB) including more detailled physical and semantic element classes (SECs) of UC1.  The latter are the "Reality Players" of James Jackson's slide. I want to start the collaboration with a **complete** and internally consistent starting set of semantic element classes (SEC) of a "Use Case World" (UCW) targeting just UC1.
+
+2. Collaboratively: add service interfaces (SI) to James Jackson's Building Blocks (BBs) and to SECs to allow instances of the SECs to carry out UC1. The result should be a graph with SECs and BBs as nodes and SIs as edges, and a time sequences along the lines of a UML sequence diagram.
+
+3. Collaboratively: evolve the UC1 graph to reach a consensus structure for UC1. Both semantic classes and interfaces (i.e. everything) can be changed here.
+
+4. Collectively: decide whether to adopt the consensus UC1 graph as the basis of a Working Group for developing a prototype of UC1 to demonstrate the possible use of existing standards and gap-filling additional standards to implement Real/Virtual World Integration in a technically realisable metaverse. 
+
+## Next Steps
+
+Please raise issues reflecting your needs, opinions, ideas both on the above plan, choice of UC1, and details of UC1 (once I have completed the initial "seeding" - my target is to be finished 27 November in order to give use time before our next EG meeting. 
+
