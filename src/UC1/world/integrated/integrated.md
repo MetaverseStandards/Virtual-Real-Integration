@@ -1,5 +1,5 @@
 # Integrated World: "Use Case 1"
-Created: 11/24/2022 5:05:09 PM UTC
+Created: 11/24/2022 5:11:09 PM UTC
 
 ---
 
@@ -13,6 +13,8 @@ Created: 11/24/2022 5:05:09 PM UTC
 **World Type:** Verses.StaticWorld
 
 **Reference Frame:** Default
+
+**Frame Pose:** {"position":{"lat":0,"lon":0,"h":0},"quaternion":{"x":0,"y":0,"z":0,"w":0}}
 
 **Contained Entities:** 
 
@@ -76,6 +78,8 @@ Created: 11/24/2022 5:05:09 PM UTC
 
 **Reference Frame:** Default
 
+**Frame Pose:** {"position":{"lat":0,"lon":0,"h":0},"quaternion":{"x":0,"y":0,"z":0,"w":0}}
+
 **Contained Entities:** 
 
 | Name | ID | Semantic Class |GeoPose |
@@ -104,6 +108,8 @@ Created: 11/24/2022 5:05:09 PM UTC
 **World Type:** Verses.VirtualWorld
 
 **Reference Frame:** Default
+
+**Frame Pose:** {"position":{"lat":0,"lon":0,"h":0},"quaternion":{"x":0,"y":0,"z":0,"w":0}}
 
 **Contained Entities:** 
 
