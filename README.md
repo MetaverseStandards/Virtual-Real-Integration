@@ -25,6 +25,6 @@ My target is to complete the "seeding" by 27 November 2022. This will provide a 
 As of the 24th the basic schema and [markdown manifest](https://github.com/MetaverseStandards/Virtual-Real-Integration/blob/main/src/UC1/world/integrated/integrated.md) of a populated example integrated world  for Use Case 1 are in place. To come in the next few days:
 - JSON manifest for integrated world
 - semantic schema as DOT file
-- action sequence for the use case
+- action sequence for the use case (draft in place 24th Nov)
 - corresponding interfaces connecting Building Blocks in the "Omniverse" to the integrated world (metaverse?).
 
