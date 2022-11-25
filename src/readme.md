@@ -6,7 +6,7 @@
 
 ## Use Case List:
 
-- Use Case 1 (UC1): Shared ride car id tag rendezvous with person
+- Use Case 1 (UC1): Shared ride car id virtual tag (floating sign) rendezvous with person
 - Ship pilot approach pier
 - Walking around campus
 - Meeting in a room
