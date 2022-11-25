@@ -2,7 +2,7 @@
 
 This repository is for exploration of use cases (UCs) for Real/Virtual World integration. 
 
-The first use case (UC1), "Assisted Car-Human Urban Rendezvous" is based on the general ideas of the "shared ride arriving for a passenger pickup scenario" that we have talked about off and on in the meetings. 
+The first use case (UC1), [Assisted Car-Human Urban Rendezvous](https://github.com/MetaverseStandards/Virtual-Real-Integration/blob/main/src/UC1/readme.md) is based on the general ideas of the "shared ride arriving for a passenger pickup scenario" that we have talked about off and on in the meetings. 
 
 ## Initial Plan
 
