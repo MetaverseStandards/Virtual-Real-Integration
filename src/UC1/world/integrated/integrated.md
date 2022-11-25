@@ -1,5 +1,5 @@
 # Integrated World: "Use Case 1"
-Created: 11/25/2022 4:57:14 PM UTC
+Created: 11/25/2022 5:02:20 PM UTC
 
 ---
 
@@ -21,22 +21,22 @@ Created: 11/25/2022 4:57:14 PM UTC
 | Name | ID | Semantic Class |GeoPose |
 | ----------- | ----------- | ----------- | ----------- |
 |Planet Surface||LandSurface|{"position":{"lat":0,"lon":0,"h":0},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
-|Building 0||Building|{"position":{"lat":0,"lon":0,"h":0},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
-|Building 1||Building|{"position":{"lat":0,"lon":0,"h":0},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
-|Building 2||Building|{"position":{"lat":0,"lon":0,"h":0},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
-|Building 3||Building|{"position":{"lat":0,"lon":0,"h":0},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
-|Building 4||Building|{"position":{"lat":0,"lon":0,"h":0},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
-|Building 5||Building|{"position":{"lat":0,"lon":0,"h":0},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
-|Building 6||Building|{"position":{"lat":0,"lon":0,"h":0},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
-|Building 7||Building|{"position":{"lat":0,"lon":0,"h":0},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
-|Building 8||Building|{"position":{"lat":0,"lon":0,"h":0},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
-|Building 9||Building|{"position":{"lat":0,"lon":0,"h":0},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
-|Building 10||Building|{"position":{"lat":0,"lon":0,"h":0},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
-|Building 11||Building|{"position":{"lat":0,"lon":0,"h":0},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
-|Building 12||Building|{"position":{"lat":0,"lon":0,"h":0},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
-|Building 13||Building|{"position":{"lat":0,"lon":0,"h":0},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
-|Building 14||Building|{"position":{"lat":0,"lon":0,"h":0},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
-|Building 15||Building|{"position":{"lat":0,"lon":0,"h":0},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
+|Building 0||Building|{"position":{"lat":51.955005,"lon":-8.403096,"h":-114},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
+|Building 1||Building|{"position":{"lat":51.955005,"lon":-8.403096,"h":-114},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
+|Building 2||Building|{"position":{"lat":51.955005,"lon":-8.403096,"h":-114},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
+|Building 3||Building|{"position":{"lat":51.955005,"lon":-8.403096,"h":-114},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
+|Building 4||Building|{"position":{"lat":51.955005,"lon":-8.403096,"h":-114},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
+|Building 5||Building|{"position":{"lat":51.955005,"lon":-8.403096,"h":-114},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
+|Building 6||Building|{"position":{"lat":51.955005,"lon":-8.403096,"h":-114},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
+|Building 7||Building|{"position":{"lat":51.955005,"lon":-8.403096,"h":-114},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
+|Building 8||Building|{"position":{"lat":51.955005,"lon":-8.403096,"h":-114},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
+|Building 9||Building|{"position":{"lat":51.955005,"lon":-8.403096,"h":-114},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
+|Building 10||Building|{"position":{"lat":51.955005,"lon":-8.403096,"h":-114},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
+|Building 11||Building|{"position":{"lat":51.955005,"lon":-8.403096,"h":-114},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
+|Building 12||Building|{"position":{"lat":51.955005,"lon":-8.403096,"h":-114},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
+|Building 13||Building|{"position":{"lat":51.955005,"lon":-8.403096,"h":-114},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
+|Building 14||Building|{"position":{"lat":51.955005,"lon":-8.403096,"h":-114},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
+|Building 15||Building|{"position":{"lat":51.955005,"lon":-8.403096,"h":-114},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
 |Street 1||Road|{"position":{"lat":0,"lon":0,"h":0},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
 |Walkway 0||WalkWay|{"position":{"lat":51.955005,"lon":-8.403096,"h":-114},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
 |Walkway 1||WalkWay|{"position":{"lat":51.955005,"lon":-8.403096,"h":-114},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
