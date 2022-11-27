@@ -8,7 +8,7 @@ The first use case (UC1), [Assisted Car-Human Urban Rendezvous](https://github.c
 
 
 
-1. **EG Chairs**: Seed the process with a starting version of UC1. To do this, I am reverse-engineering parts of our first 6 meetings to create a complete and internally consistent version of UC1, [James Jackson's Building Blocks]() (BB) including more detailled physical and semantic element classes (SECs) of UC1.  The latter are the "Reality Players" of James Jackson's slide. I want to start the collaboration with a **complete** and internally consistent starting set of semantic element classes (SEC) of a "Use Case World" (UCW) targeting just UC1.
+1. **EG Chairs**: Seed the process with a starting version of UC1. To do this, I am reverse-engineering parts of our first 6 meetings to create a complete and internally consistent version of UC1, [James Jackson's Building Blocks](https://github.com/MetaverseStandards/Virtual-Real-Integration/tree/main/src/buildingblocks#readme) (BB) including more detailled physical and semantic element classes (SECs) of UC1.  The latter are the "Reality Players" of James Jackson's slide. I want to start the collaboration with a **complete** and internally consistent starting set of semantic element classes (SEC) of a "Use Case World" (UCW) targeting just UC1.
 
 2. **Collaboratively**: add service interfaces (SI) to James Jackson's Building Blocks (BBs) and to SECs to allow instances of the SECs to carry out UC1. The result should be (a) a graph with SECs and BBs as nodes and SIs as edges, and (b) a time sequence along the lines of a UML sequence diagram. This graph will be encoded in the DOT language, which is editable and viewable [online](https://github.com/magjac/graphviz-visual-editor) . Links will go in the *tools* folder.
 
@@ -22,9 +22,9 @@ Please raise issues reflecting your needs, opinions, ideas, both on the above pl
 
 My target is to complete the "seeding" by 27 November 2022. This will provide a few days before our next EG meeting on 1 December 2022 to move on to step 2 of the plan.
 
-As of November 27th, the [Building Blocks](), the [basic schema](https://github.com/MetaverseStandards/Virtual-Real-Integration/tree/main/src/UC1/world) , [use case description](https://github.com/MetaverseStandards/Virtual-Real-Integration/tree/main/src/UC1#readme) , [action sequence](https://github.com/MetaverseStandards/Virtual-Real-Integration/tree/main/src/UC1/sequence#readme) , and [markdown manifest](https://github.com/MetaverseStandards/Virtual-Real-Integration/blob/main/src/UC1/world/integrated/integrated.md) of a populated example integrated world  for Use Case 1 are in place. To come in the next few days:
+As of November 27th, the [Building Blocks](https://github.com/MetaverseStandards/Virtual-Real-Integration/tree/main/src/buildingblocks#readme), the [basic schema](https://github.com/MetaverseStandards/Virtual-Real-Integration/tree/main/src/UC1/world) , [use case description](https://github.com/MetaverseStandards/Virtual-Real-Integration/tree/main/src/UC1#readme) , [action sequence](https://github.com/MetaverseStandards/Virtual-Real-Integration/tree/main/src/UC1/sequence#readme) , and [markdown manifest](https://github.com/MetaverseStandards/Virtual-Real-Integration/blob/main/src/UC1/world/integrated/integrated.md) of a populated example integrated world for Use Case 1 are in place. To come in the next few days:
 
-- JSON manifest for integrated world
-- semantic schema as DOT file
-- corresponding interfaces connecting Building Blocks in the "Omniverse" to the integrated world (metaverse?).
+- JSON manifest for integrated world - may become issue
+- semantic schema as DOT file - may become issue
+- create issue for developing corresponding interfaces connecting Building Blocks in the "Omniverse" to the integrated world (metaverse?).
 
