@@ -22,7 +22,7 @@ Please raise issues reflecting your needs, opinions, ideas, both on the above pl
 
 My target is to complete the "seeding" by 27 November 2022. This will provide a few days before our next EG meeting on 1 December 2022 to move on to step 2 of the plan.
 
-As of November 27th, the basic schema, use case description, [action sequence](https://github.com/MetaverseStandards/Virtual-Real-Integration/tree/main/src/UC1/sequence#readme) , and [markdown manifest](https://github.com/MetaverseStandards/Virtual-Real-Integration/blob/main/src/UC1/world/integrated/integrated.md) of a populated example integrated world  for Use Case 1 are in place. To come in the next few days:
+As of November 27th, the basic schema, [use case description](https://github.com/MetaverseStandards/Virtual-Real-Integration/tree/main/src/UC1#readme) , [action sequence](https://github.com/MetaverseStandards/Virtual-Real-Integration/tree/main/src/UC1/sequence#readme) , and [markdown manifest](https://github.com/MetaverseStandards/Virtual-Real-Integration/blob/main/src/UC1/world/integrated/integrated.md) of a populated example integrated world  for Use Case 1 are in place. To come in the next few days:
 
 - JSON manifest for integrated world
 - semantic schema as DOT file
