@@ -20,11 +20,6 @@ The first use case (UC1), [Assisted Car-Human Urban Rendezvous](https://github.c
 
 Please raise issues reflecting your needs, opinions, ideas, both on the above plan and the choice of UC1.
 
-My target is to complete the "seeding" by 27 November 2022. This will provide a few days before our next EG meeting on 1 December 2022 to move on to step 2 of the plan.
+Completed the "seeding" 27 November 2022. This provides a few days before our next EG meeting on 1 December 2022 to move on to step 2 of the plan.
 
-As of November 27th, the [Building Blocks](https://github.com/MetaverseStandards/Virtual-Real-Integration/tree/main/src/buildingblocks#readme), the [basic schema](https://github.com/MetaverseStandards/Virtual-Real-Integration/tree/main/src/UC1/world) , [use case description](https://github.com/MetaverseStandards/Virtual-Real-Integration/tree/main/src/UC1#readme) , [action sequence](https://github.com/MetaverseStandards/Virtual-Real-Integration/tree/main/src/UC1/sequence#readme) , and [markdown manifest](https://github.com/MetaverseStandards/Virtual-Real-Integration/blob/main/src/UC1/world/integrated/integrated.md) of a populated example integrated world for Use Case 1 are in place. To come in the next few days:
-
-- JSON manifest for integrated world - may become issue
-- semantic schema as DOT file - may become issue
-- create issue for developing corresponding interfaces connecting Building Blocks in the "Omniverse" to the integrated world (metaverse?).
-
+As of November 27th, the [Building Blocks](https://github.com/MetaverseStandards/Virtual-Real-Integration/tree/main/src/buildingblocks#readme), the [basic schema](https://github.com/MetaverseStandards/Virtual-Real-Integration/tree/main/src/UC1/world) , [use case description](https://github.com/MetaverseStandards/Virtual-Real-Integration/tree/main/src/UC1#readme) , [action sequence](https://github.com/MetaverseStandards/Virtual-Real-Integration/tree/main/src/UC1/sequence#readme) , and [markdown manifest](https://github.com/MetaverseStandards/Virtual-Real-Integration/blob/main/src/UC1/world/integrated/integrated.md) of a populated example integrated world for Use Case 1 are in place. 
