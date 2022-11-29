@@ -1,5 +1,5 @@
 # Integrated World: "Use Case 1"
-Created: 11/25/2022 5:24:11 PM UTC
+Created: 11/29/2022 2:20:40 AM UTC
 
 ---
 
@@ -8,10 +8,9 @@ Created: 11/25/2022 5:24:11 PM UTC
 ---
 
 
-**World Name:** Background
+**Name:** Background
 
-
-**World Type:** Verses.StaticWorld
+**Type:** Verses.StaticWorld
 
 **Reference Frame:** Default
 
@@ -21,7 +20,7 @@ Created: 11/25/2022 5:24:11 PM UTC
 
 | Name | ID | Semantic Class |GeoPose |
 | ----------- | ----------- | ----------- | ----------- |
-|Planet Surface||LandSurface|{"position":{"lat":0,"lon":0,"h":0},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
+|Planet Surface||LandSurface|{"position":{"lat":51.955005,"lon":-8.403096,"h":-114},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
 |Building 0||Building|{"position":{"lat":51.955005,"lon":-8.403096,"h":-114},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
 |Building 1||Building|{"position":{"lat":51.955005,"lon":-8.403096,"h":-114},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
 |Building 2||Building|{"position":{"lat":51.955005,"lon":-8.403096,"h":-114},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
@@ -38,28 +37,28 @@ Created: 11/25/2022 5:24:11 PM UTC
 |Building 13||Building|{"position":{"lat":51.955005,"lon":-8.403096,"h":-114},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
 |Building 14||Building|{"position":{"lat":51.955005,"lon":-8.403096,"h":-114},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
 |Building 15||Building|{"position":{"lat":51.955005,"lon":-8.403096,"h":-114},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
-|Street 1||Road|{"position":{"lat":0,"lon":0,"h":0},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
+|Street 1||Road|{"position":{"lat":51.955005,"lon":-8.403096,"h":-114},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
 |Walkway 0||WalkWay|{"position":{"lat":51.955005,"lon":-8.403096,"h":-114},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
 |Walkway 1||WalkWay|{"position":{"lat":51.955005,"lon":-8.403096,"h":-114},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
-|Street 2||Road|{"position":{"lat":0,"lon":0,"h":0},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
+|Street 2||Road|{"position":{"lat":51.955005,"lon":-8.403096,"h":-114},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
 |Walkway 2||WalkWay|{"position":{"lat":51.955005,"lon":-8.403096,"h":-114},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
 |Walkway 3||WalkWay|{"position":{"lat":51.955005,"lon":-8.403096,"h":-114},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
-|Street 3||Road|{"position":{"lat":0,"lon":0,"h":0},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
+|Street 3||Road|{"position":{"lat":51.955005,"lon":-8.403096,"h":-114},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
 |Walkway 4||WalkWay|{"position":{"lat":51.955005,"lon":-8.403096,"h":-114},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
 |Walkway 5||WalkWay|{"position":{"lat":51.955005,"lon":-8.403096,"h":-114},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
-|Street 4||Road|{"position":{"lat":0,"lon":0,"h":0},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
+|Street 4||Road|{"position":{"lat":51.955005,"lon":-8.403096,"h":-114},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
 |Walkway 6||WalkWay|{"position":{"lat":51.955005,"lon":-8.403096,"h":-114},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
 |Walkway 7||WalkWay|{"position":{"lat":51.955005,"lon":-8.403096,"h":-114},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
-|Street 5||Road|{"position":{"lat":0,"lon":0,"h":0},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
+|Street 5||Road|{"position":{"lat":51.955005,"lon":-8.403096,"h":-114},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
 |Walkway 8||WalkWay|{"position":{"lat":51.955005,"lon":-8.403096,"h":-114},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
 |Walkway 9||WalkWay|{"position":{"lat":51.955005,"lon":-8.403096,"h":-114},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
-|Street 6||Road|{"position":{"lat":0,"lon":0,"h":0},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
+|Street 6||Road|{"position":{"lat":51.955005,"lon":-8.403096,"h":-114},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
 |Walkway 10||WalkWay|{"position":{"lat":51.955005,"lon":-8.403096,"h":-114},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
 |Walkway 11||WalkWay|{"position":{"lat":51.955005,"lon":-8.403096,"h":-114},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
-|Street 7||Road|{"position":{"lat":0,"lon":0,"h":0},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
+|Street 7||Road|{"position":{"lat":51.955005,"lon":-8.403096,"h":-114},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
 |Walkway 12||WalkWay|{"position":{"lat":51.955005,"lon":-8.403096,"h":-114},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
 |Walkway 13||WalkWay|{"position":{"lat":51.955005,"lon":-8.403096,"h":-114},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
-|Street 8||Road|{"position":{"lat":0,"lon":0,"h":0},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
+|Street 8||Road|{"position":{"lat":51.955005,"lon":-8.403096,"h":-114},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
 |Walkway 14||WalkWay|{"position":{"lat":51.955005,"lon":-8.403096,"h":-114},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
 |Walkway 15||WalkWay|{"position":{"lat":51.955005,"lon":-8.403096,"h":-114},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
 |Signal 1||Signal|{"position":{"lat":51.955005,"lon":-8.403096,"h":-114},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
@@ -73,9 +72,9 @@ Created: 11/25/2022 5:24:11 PM UTC
 ---
 
 
-**World Name:** Foreground
+**Name:** Foreground
 
-**World Type:** Verses.DynamicWorld
+**Type:** Verses.DynamicWorld
 
 **Reference Frame:** Default
 
@@ -85,7 +84,7 @@ Created: 11/25/2022 5:24:11 PM UTC
 
 | Name | ID | Semantic Class |GeoPose |
 | ----------- | ----------- | ----------- | ----------- |
-|Rider||Person|{"position":{"lat":0,"lon":0,"h":0},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
+|Rider||Person|{"position":{"lat":51.955005,"lon":-8.403096,"h":-114},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
 |Driver||Person|{"position":{"lat":51.955005,"lon":-8.403096,"h":-114},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
 |Non-participant Person 1||Person|{"position":{"lat":51.955005,"lon":-8.403096,"h":-114},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
 |Non-participant Person 2||Person|{"position":{"lat":51.955005,"lon":-8.403096,"h":-114},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
@@ -95,7 +94,7 @@ Created: 11/25/2022 5:24:11 PM UTC
 |Non-participant Person 6||Person|{"position":{"lat":51.955005,"lon":-8.403096,"h":-114},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
 |Non-participant Person 7||Person|{"position":{"lat":51.955005,"lon":-8.403096,"h":-114},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
 |Non-participant Person 8||Person|{"position":{"lat":51.955005,"lon":-8.403096,"h":-114},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
-|Ride Car||Car|{"position":{"lat":0,"lon":0,"h":0},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
+|Ride Car||Car|{"position":{"lat":51.955005,"lon":-8.403096,"h":-114},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
 |Non-participant Car 1||Car|{"position":{"lat":51.955005,"lon":-8.403096,"h":-114},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
 |Non-participant Car 2||Car|{"position":{"lat":51.955005,"lon":-8.403096,"h":-114},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
 |Non-participant Car 3||Car|{"position":{"lat":51.955005,"lon":-8.403096,"h":-114},"quaternion":{"x":0,"y":0,"z":0,"w":0}}|
@@ -104,9 +103,25 @@ Created: 11/25/2022 5:24:11 PM UTC
 ---
 
 
-**World Name:** Virtual
+**Name:** EarthCenteredInertial
 
-**World Type:** Verses.VirtualWorld
+**Type:** Verses.DynamicWorld
+
+**Reference Frame:** Default
+
+**Frame Pose:** {"frameSpecification":{"authority":https://naif.jpl.nasa.gov/naif/,"id":J2000,"parameters":},"quaternion":{"x":0,"y":0,"z":0,"w":0}}
+
+**Contained Entities:** 
+
+| Name | ID | Semantic Class |GeoPose |
+| ----------- | ----------- | ----------- | ----------- |
+
+---
+
+
+**Name:** Virtual
+
+**Type:** Verses.VirtualWorld
 
 **Reference Frame:** Default
 
