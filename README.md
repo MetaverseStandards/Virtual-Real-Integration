@@ -4,6 +4,8 @@ This repository is for exploration of use cases (UCs) for Real/Virtual World int
 
 The first use case (UC1), [Assisted Car-Human Urban Rendezvous](https://github.com/MetaverseStandards/Virtual-Real-Integration/blob/main/src/UC1/readme.md) is based on the general ideas of the "shared ride arriving for a passenger pickup scenario" that we have talked about off and on in the meetings. 
 
+The second use case (UC2), [Underground Utilities - Reading the Street](https://github.com/MetaverseStandards/Virtual-Real-Integration/tree/main/src/UC2) is based on the need to understand what is buried in the ground at a construction site before and during excavations in order to prevent damage and injury. The location of buried pipes and cables are often only known approximately until they are exposed during digging. As they are exposed and as new facilities are placed in an excavation prior to burial, it is possible to make accurate surveys of 3D location. 
+
 ## Initial Plan
 
 
