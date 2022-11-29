@@ -6,7 +6,8 @@
 
 ## Use Case List:
 
-- Use Case 1 (UC1): Assisted Car-Human Urban Rendezvous [Shared ride car id virtual tag (floating sign) rendezvous with person]
+- Use Case 1 (UC1): "Assisted Car-Human Urban Rendezvou" [Shared ride car id virtual tag (floating sign) rendezvous with person]
+- Use Case 2 (UC2): "Read the Street" [AR for undergound utilities]
 - Ship pilot approach pier
 - Walking around campus
 - Meeting in a room
@@ -15,6 +16,6 @@
 - Police investigation
 - Menu appropriate restaurant where you are sitting
 - Layered content with different access rights and experiences e.g. buried utilities
-- "Read the street" AR for undergound utilities
+
 
 **Shared Services** are mostly (entirely - by definition?) functionality that is used by other (non V/R integration) aspects. 
