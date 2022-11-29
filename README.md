@@ -4,7 +4,12 @@ This repository is for exploration of [use cases](https://github.com/MetaverseSt
 
 The first use case (UC1), [Assisted Car-Human Urban Rendezvous](https://github.com/MetaverseStandards/Virtual-Real-Integration/blob/main/src/UC1/readme.md) is based on the general ideas of the "shared ride arriving for a passenger pickup scenario" that we have talked about off and on in the meetings. 
 
-The second use case (UC2), [Underground Utilities - Reading the Street](https://github.com/MetaverseStandards/Virtual-Real-Integration/tree/main/src/UC2) is based on the need to understand what is buried in the ground at a construction site before and during excavations in order to prevent damage and injury. The location of buried pipes and cables are often only known approximately until they are exposed during digging. As they are exposed and as new facilities are placed in an excavation prior to burial, it is possible to make accurate surveys of 3D location. 
+The second use case (UC2), [Underground Utilities - Reading the Street](https://github.com/MetaverseStandards/Virtual-Real-Integration/tree/main/src/UC2) is based on the need to understand what is buried in the ground at a construction site before and during excavations in order to prevent damage and injury. The location of buried pipes and cables are often only known  to different levels of precision as the design and excavation proceed
+1. During the design phase there may be either general records of a buried pipe or cable but only within a wide corridor _or_ there may be "as-built" video or imagery that can be used to provide an integrated view beneath the ground surface.
+2. During the location phase, the horizontal precision may be improved to a few tens of centimeters horizontally and a half meter vertically.
+3. During excavation, the precise location and condition is exposed within the excavated area.
+The integrated virtual/real view can be updated as the work proceeds to provide the best-available information as the work proceeds. Since very approximate information may be replaced by direct observation of the initially hidden buried facilities, it is possible to update the model based on these "as-built" observations so that they may be integrated into a view if a later project involves the same buried objects.
+ 
 
 ## Plan
 
