@@ -1,0 +1,5 @@
+## Use Case 2 (UC2) - Underground Utilities - Reading the Street - Description
+A person (the Excavator), marks a proposed excavation in white paint. A person (the Locater) visualizes the excavation using the markings as a specification for the hole. The Locater adds colored paint markings to specify what buried utilities lie beneath the surface. The Excavator returns to excavate according to the proposal. Before and during the excavation, the Excavator can visualize the hidden buried facilities. The visualization evolves during the digging process as some things are exposed and can be directly viewed. The internal representation of the exposed facilities as well as new facilities placed before burial are integrated with previous knowledge of the buried facilities at the location. The result is a continuous integration of images and other data such ground penetrating RADAR returns or as LiDAR point clouds obtained during and after placement ("as-built" imagery) for future use.
+
+
+![background](UC2_Background.jpg)
