@@ -1,5 +1,10 @@
 # Building Blocks introduced by James Jackson in Meeting 5.
+## Original
 
 
-![Building Blocks](../../images/jjbb.jpg)
+![Building Blocks](https://github.com/MetaverseStandards/Virtual-Real-Integration/blob/main/images/JJBB.JPG)
+
+## Draft UML
+
+![Building Blocks](https://github.com/MetaverseStandards/Virtual-Real-Integration/blob/main/images/JJBB.JPG)
 
