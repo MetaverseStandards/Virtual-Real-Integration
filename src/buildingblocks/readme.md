@@ -6,5 +6,5 @@
 
 ## Draft UML
 
-![Building Blocks](https://github.com/MetaverseStandards/Virtual-Real-Integration/blob/main/images/JJBB.JPG)
+![Building Blocks](https://github.com/MetaverseStandards/Virtual-Real-Integration/blob/main/src/buildingblocks/BuildingBlocks_UML.JPG)
 
