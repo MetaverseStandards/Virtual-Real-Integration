@@ -17,7 +17,7 @@ The integrated virtual/real view can be updated as the work proceeds to provide 
 
 1. **EG Chairs**: Seed the process with a starting version of UC1. To start this, I (Steve) am reverse-engineering parts of our first 6 meetings to create a complete and internally consistent version of UC1, [James Jackson's Building Blocks](https://github.com/MetaverseStandards/Virtual-Real-Integration/tree/main/src/buildingblocks#readme) (BB) including more detailled physical and semantic element classes (SECs) of UC1.  The latter are the "Reality Players" of James Jackson's slide. We can begin the collaboration with a more or less **complete** and internally consistent starting set of semantic element classes (SEC) of a "Use Case World" (UCW) targeting just UC1.
 
-2. **Collaboratively**: add service interfaces (SI) to James Jackson's Building Blocks (BBs) and to SECs to allow instances of the SECs to carry out UC1. The result could be (a) a graph with SECs and BBs as nodes and SIs as edges, and (b) a time sequence along the lines of a UML sequence diagram. This graph could be encoded in the DOT language, which is editable and viewable [online](https://github.com/magjac/graphviz-visual-editor) . 
+2. **Collaboratively**: add service interfaces (SI) to James Jackson's Building Blocks (BBs) and to SECs to allow instances of the SECs to carry out UC1.  
 
 3. **Collaboratively**: evolve the UC1 graph to reach a consensus structure for UC1. Both semantic classes and interfaces (i.e. everything) can be changed here.
 
